@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "EsewaTravels",
-            url: "https://github.com/DipeshETT/Esewa-Travels/releases/download/v1.0.2/EsewaTravels.xcframework.zip",
-            checksum: "7275cc7f7213416f3d5885788b374279ae95894adc2e3a31f373139017e9e482"
+            url: "https://github.com/DipeshETT/Esewa-Travels/releases/download/v1.0.3/EsewaTravels.xcframework.zip",
+            checksum: "cab392163703b98d65304636217fe6445e1ea7224410514f2605696db0f0ada8"
         )
     ]
 )
