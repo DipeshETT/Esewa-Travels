@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "EsewaTravels",
-            url: "https://github.com/<YOUR_GITHUB_USER>/<YOUR_REPO_NAME>/releases/download/<VERSION_TAG>/EsewaTravels.xcframework.zip",
+            url: "https://github.com/DipeshETT/Esewa-Travels/releases/download/<VERSION_TAG>/EsewaTravels.xcframework.zip",
             checksum: "d2ccf4c3507a52810c19e93a135c18997480208e5552430255d985048817dc7b"
         )
     ]
